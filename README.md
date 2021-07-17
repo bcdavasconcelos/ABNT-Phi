@@ -18,7 +18,7 @@ Esse estilo pode ser utilizado com o Pandoc (v. 2.14 em diante) e com gerenciado
 
 # Instruções para testar
 
-- Faça o download e instale o [Pandoc](https://pandoc.org/MANUAL.html).  
+- Faça o download e instale o [Pandoc](https://pandoc.org/MANUAL.html) (esse estilo também pode ser utilizado com o Zotero ou o Mendeley, mas eu não uso nenhum desses dois programas regularmente).  
 - Baixe o conteúdo deste repositório, mude o nome para Pandoc e mova para a sua pasta do Dropbox (ou alguma outra de sua preferência).  
 - Para acrescentar a bibliografia a uma conversão do Pandoc, basta adicionar alguns elementos ao comando, como a flag `-C`  seguida de `--csl=` e o endereço do arquivo CSL; `--bibliography=` e o arquivo da bibliografia.  
 
@@ -39,6 +39,4 @@ O comando completo, portanto, seria:
 pandoc -f markdown "$HOME/Dropbox/Pandoc/test.md" -t docx -o "$HOME/Dropbox/Pandoc/test.docx" -C "--csl=$HOME/Dropbox/Pandoc/abnt-phi.csl" "--bibliography=$HOME/Dropbox/Pandoc/refs.bib"
 ```
 
-Esse estilo também pode ser utilizado via Zotero ou Mendeley.
-
-![Esq: fonte | Dir: versão renderizada](./Teste.png)  
+![Esq: fonte | Dir: versão renderizada](./test.png)  
