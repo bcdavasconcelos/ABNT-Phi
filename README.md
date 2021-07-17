@@ -3,8 +3,6 @@
 Esse é um estilo que adaptei para facilitar a citação de textos antigos utilizando o filtro CITEPROC do Pandoc. 
 Essa versão é consideravelmente mais simples do que a primeira adaptação ([CSL ABNT para autores antigos](https://github.com/bcdavasconcelos/CSL-ABNT-para-Autores-Antigos)).  
 
-![Esq: fonte | Dir: versão renderizada](./img/biblio.png)  
-
 Sem algum tipo de adaptação aos arquivos CSL no formato ABNT, seria impossível utilizar de modo satisfatório o processamento automatizado da bibliografia do [Pandoc](https://pandoc.org/MANUAL.html#citation-rendering). Uma citação da ed. Bekker, de uma outra edição crítica qualquer ou de uma tradução do texto, traria sempre o nome do autor para a citação em linha.   
 
 Arquivos de bibliografia tradicionais raramente levam em conta a necessidade de incluir na citação em linha algum dado diferente do esquema tradicional (AUTOR ANO). Na área de estudos antigos e da Filosofia em geral, entretanto, frequentemente citamos obras clássicas a partir de um [sistema de abreviações](http://dge.cchs.csic.es/lst/lst1.htm) consagrado no meio acadêmico especializado. Além disso, em alguns casos pode ser mais relevante incluir o nome do editor ou do tradutor do texto, visto que o nome do autor já é conhecido e está pressuposto.   
@@ -43,3 +41,4 @@ pandoc -f markdown "$HOME/Dropbox/Pandoc/test.md" -t docx -o "$HOME/Dropbox/Pand
 
 Esse estilo também pode ser utilizado via Zotero ou Mendeley.
 
+![Esq: fonte | Dir: versão renderizada](./Teste.png)  
