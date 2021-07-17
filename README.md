@@ -26,19 +26,19 @@ Esse estilo pode ser utilizado com o Pandoc (v. 2.14 em diante) e com gerenciado
 
 No meu caso, os arquivos estão na seguinte localização:  
 
-`~/Dropbox/Pandoc/refs/Refs.bib`  
- `~/Dropbox/Pandoc/refs/abnt-phi.csl`  
+`~/Dropbox/Pandoc/refs.bib`  
+ `~/Dropbox/Pandoc/abnt-phi.csl`  
 
 Portanto, devo acrescentar:
 
 ```bash
--C "--bibliography=$HOME/Dropbox/Pandoc/refs/Refs.bib" "--csl=$HOME/Dropbox/Pandoc/refs/abnt-phi.csl" 
+-C "--bibliography=$HOME/Dropbox/Pandoc/refs.bib" "--csl=$HOME/Dropbox/Pandoc/abnt-phi.csl" 
 ```
 
 O comando completo, portanto, seria:
 
 ```bash
-pandoc -f markdown "$HOME/Dropbox/Pandoc/Test.md" -t docx -o "$HOME/Dropbox/Pandoc/Test.docx" -C "--csl=$HOME/Dropbox/Pandoc/refs/abnt-phi.csl" "--bibliography=$HOME/Dropbox/Pandoc/refs/Refs.bib"
+pandoc -f markdown "$HOME/Dropbox/Pandoc/test.md" -t docx -o "$HOME/Dropbox/Pandoc/test.docx" -C "--csl=$HOME/Dropbox/Pandoc/abnt-phi.csl" "--bibliography=$HOME/Dropbox/Pandoc/refs.bib"
 ```
 
 Esse estilo também pode ser utilizado via Zotero ou Mendeley.
