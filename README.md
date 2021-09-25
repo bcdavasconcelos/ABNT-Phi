@@ -74,5 +74,5 @@ pandoc -f markdown "$HOME/Dropbox/Pandoc/test.md" -t docx -o "$HOME/Dropbox/Pand
 
 ![Esq: fonte | Dir: versão renderizada](./test.png)  
 
-Para fazer download do ABNT-Phi, visite o repositório no [Github](https://github.com/bcdavasconcelos/ABNT-Phi).  
+Para ler mais sobre as normas ABNT, visite o [GDCT](https://gdct.blot.im/tagged/abnt).  
 Uma versão mais antiga desse projeto pode ser encontrada em [CSL ABNT para autores antigos](https://github.com/bcdavasconcelos/CSL-ABNT-para-Autores-Antigos).
