@@ -2,6 +2,16 @@
 
 # ABNT-Phi
 
+## ABNT-Phi para apressados
+
+Apenas acrescente o URL do arquivo CSL ao documento que será convertido via Pandoc.
+
+```yaml
+csl: https://raw.githubusercontent.com/bcdavasconcelos/ABNT-Phi/main/abnt-phi.csl
+```
+
+## Introdução
+
 O [ABNT-Phi](https://github.com/bcdavasconcelos/ABNT-Phi) é um arquivo no formato *[Citation Style Language](https://en.wikipedia.org/wiki/Citation_Style_Language)* (CSL) que serve como conjunto de regras para determinar como os dados contidos na bibliografia devem ser exibidos no texto. Ele foi desenvolvido especialmente para a conversão de documentos utilizando o [Pandoc](https://pandoc.org/MANUAL.html#citation-rendering), mas também pode ser utilizado em programas como o [Zotero](https://www.zotero.org) para gerar bibliografia em diversos processadores de texto (*e.g.* Microsoft Word, LibreOffice, *etc*). 
 
 A motivação para adaptar o estilo [ABNT tradicional](https://github.com/citation-style-language/styles/blob/master/associacao-brasileira-de-normas-tecnicas.csl) em uma variante especializada na área da Filosofia e Estudos Antigos deve-se ao fato de que este, bem como os demais estilos CSL, jamais levam em conta a necessidade de incluir nas citações no corpo do texto algum dado para além de AUTOR e ANO. Nestas áreas, entretanto, frequentemente citamos obras clássicas a partir de um [sistema de abreviações](http://dge.cchs.csic.es/lst/lst1.htm) consagrado no meio acadêmico especializado. Além disso, eventualmente pode ser mais relevante incluir o nome do editor ou do tradutor do texto, visto que o nome do autor já é conhecido e está pressuposto.   
