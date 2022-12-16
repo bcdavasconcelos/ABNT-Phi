@@ -1,0 +1,878 @@
+---
+nocite: "[@*]"
+references:
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.001"
+  collection-number: 4
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: APo
+  isbn: Organon
+  issued: 1831
+  keyword: organon; fonte_primária; carist_apr_apo; carist; bookends;
+    bib_edição; fonte_primária\_-\_edição
+  page: 24a10-100b17
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Ἀναλυτικῶν ὑστέρων
+  title-short: APo
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.001"
+  collection-number: 3
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: APr
+  isbn: Organon
+  issued: 1831
+  keyword: organon; fonte_primária; carist_apr_apo; carist; bookends;
+    bib_edição; fonte_primária\_-\_edição
+  page: 24a10-100b17
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Ἀναλυτικῶν προτέρων
+  title-short: APr
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.004"
+  collection-number: 28
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: Aud
+  isbn: Natural Philosophy
+  issued: 1831
+  keyword: natural_e\_natureza; fonte_primária; carist; bib_edição;
+    fonte_primária\_-\_edição
+  page: 800a01-804b39
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Περὶ ακουστῶν
+  title-short: Aud
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.005"
+  collection-number: 8
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: Cael
+  isbn: Second Philosophy
+  issued: 1831
+  keyword: carist_02_física; fonte_primária; carist_cael; carist;
+    bookends; bib_edição; fonte_primária\_-\_edição
+  page: 268a1-313b22
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Περὶ οὐρανοῦ
+  title-short: Cael
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.006"
+  collection-number: 1
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: Cat
+  isbn: Organon
+  issued: 1831
+  keyword: organon; fonte_primária; carist_cat; carist; bookends; phil;
+    phi_aristóteles; bib_edição; fonte_primária\_-\_edição
+  page: 1a01-15b32
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Κατηγορίαι
+  title-short: Cat
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.007"
+  collection-number: 27
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: Col
+  isbn: Natural Philosophy
+  issued: 1831
+  keyword: natural_e\_natureza; fonte_primária; carist_09_espúrios;
+    phi_aristóteles; bib_edição; fonte_primária\_-\_edição
+  page: 791a1-799b20
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Περί χρωμάτων
+  title-short: Col
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.002"
+  collection-number: 12
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: DA
+  isbn: Second Philosophy
+  issued: 1831
+  keyword: fichado; carist_02_física; fonte_primária; carist_da; carist;
+    bookends; phil; phi_aristóteles; bib_edição;
+    fonte_primária\_-\_edição
+  page: 402a01-435b25
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Περὶ ψυχῆς
+  title-short: DA
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.008"
+  collection-number: 17
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: DivSomn
+  isbn: Parva Naturalia
+  issued: 1831
+  keyword: parva_naturalia; fonte_primária; carist; phil;
+    phi_aristóteles; bib_edição; fonte_primária\_-\_edição
+  page: 462b12-464b18
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Περὶ τῆς καθ΄ ὕπνον μαντικῆς
+  title-short: DivSomn
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.009"
+  collection-number: 40
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: EE
+  isbn: Political Philosophy
+  issued: 1831
+  keyword: carist_06_ética; fonte_primária; phi_aristóteles; bib_edição;
+    fonte_primária\_-\_edição
+  page: 1214a01-1249b25
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Ἠθικὰ εὐδήμεια
+  title-short: EE
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.010"
+  collection-number: 38
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: EN
+  isbn: Political Philosophy
+  issued: 1831
+  keyword: carist_06_ética; fichado; fonte_primária; phi_aristóteles;
+    bib_edição; fonte_primária\_-\_edição
+  page: 1094a01-1181b23
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Ἠθικὰ νικομάχεια
+  title-short: EN
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.012"
+  collection-number: 26
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: GA
+  isbn: Natural Philosophy
+  issued: 1831
+  keyword: natural_e\_natureza; fonte_primária; carist; phil;
+    phi_aristóteles; bib_edição; fonte_primária\_-\_edição
+  page: 715a01-789b20
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Περὶ ζῴων γενέσεως
+  title-short: GA
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.013"
+  collection-number: 9
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: GC
+  isbn: Second Philosophy
+  issued: 1831
+  keyword: carist_02_física; fonte_primária; carist_gc; carist;
+    bookends; bib_edição; fonte_primária\_-\_edição
+  page: 314a01-338b01
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Περὶ γενέσεως καὶ φθορᾶς
+  title-short: GC
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.014"
+  collection-number: 22
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: HA
+  isbn: Natural Philosophy
+  issued: 1831
+  keyword: natural_e\_natureza; fonte_primária; carist; phil;
+    phi_aristóteles; bib_edição; fonte_primária\_-\_edição
+  page: 486a05-639a01
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Τῶν περὶ τὰ ζῷα ἱστοριῶν
+  title-short: HA
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.015"
+  collection-number: 25
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: IA
+  isbn: Natural Philosophy
+  issued: 1831
+  keyword: natural_e\_natureza; fonte_primária; carist; phil;
+    phi_aristóteles; bib_edição; fonte_primária\_-\_edição
+  page: 704a04-714b23
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Περὶ πορείας ζῴων
+  title-short: IA
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.016"
+  collection-number: 16
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: Insomn
+  isbn: Parva Naturalia
+  issued: 1831
+  keyword: parva_naturalia; fonte_primária; carist; phil;
+    phi_aristóteles; bib_edição; fonte_primária\_-\_edição
+  page: 458a33-462b11
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Περί ενυπνίων
+  title-short: Insomn
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.017"
+  collection-number: 2
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: Int
+  isbn: Organon
+  issued: 1831
+  keyword: organon; fonte_primária; carist_int; carist; bookends;
+    bib_edição; fonte_primária\_-\_edição
+  page: 16a01-24b09
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Περὶ ἑρμηνείας
+  title-short: Int
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.018"
+  collection-number: 19
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: Juv
+  isbn: Parva Naturalia
+  issued: 1831
+  keyword: parva_naturalia; fonte_primária; carist; phil;
+    phi_aristóteles; bib_edição; fonte_primária\_-\_edição
+  page: 467b10-470b05
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Περὶ νεότητος καὶ γήρως καὶ ζωῆς καὶ θανάτου
+  title-short: Juv
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.019"
+  collection-number: 34
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: LI
+  isbn: Natural Philosophy
+  issued: 1831
+  keyword: natural_e\_natureza; fonte_primária; carist; phil;
+    phi_aristóteles; bib_edição; fonte_primária\_-\_edição
+  page: 968a01-972b33
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Περὶ ἀτόμων γραμμῶν
+  title-short: LI
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.020"
+  collection-number: 18
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: Long
+  isbn: Parva Naturalia
+  issued: 1831
+  keyword: parva_naturalia; fonte_primária; carist; phil;
+    phi_aristóteles; bib_edição; fonte_primária\_-\_edição
+  page: 464b19-467b09
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Περὶ μακροβιότητος καὶ βραχυβιότητος
+  title-short: Long
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.021"
+  collection-number: 24
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: MA
+  isbn: Natural Philosophy
+  issued: 1831
+  keyword: natural_e\_natureza; fonte_primária; carist; phil;
+    phi_aristóteles; bib_edição; fonte_primária\_-\_edição
+  page: 698a01-704b02
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Περὶ ζῴων κινήσεως
+  title-short: MA
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.023"
+  collection-number: 32
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: Mech
+  isbn: Natural Philosophy
+  issued: 1831
+  keyword: natural_e\_natureza; fonte_primária; carist; phil;
+    phi_aristóteles; bib_edição; fonte_primária\_-\_edição
+  page: 847a11-858b31
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Μηχανικά
+  title-short: Mech
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.024"
+  collection-number: 14
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: Mem
+  isbn: Parva Naturalia
+  issued: 1831
+  keyword: parva_naturalia; fonte_primária; carist_mem; carist;
+    bookends; bib_edição; fonte_primária\_-\_edição
+  page: 449b04-453b11
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Περὶ μνήμης καὶ ἀναμνήσεως
+  title-short: Mem
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.025"
+  collection-number: 37
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: Metaph
+  isbn: First Philosophy
+  issued: 1831
+  keyword: first_philosophy; fonte_primária; carist; phil;
+    phi_aristóteles; bib_edição; fonte_primária\_-\_edição
+  page: 980a21-1093b29
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Τῶν μετὰ τὰ φυσικά
+  title-short: Metaph
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.026"
+  collection-number: 10
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: Mete
+  isbn: Second Philosophy
+  issued: 1831
+  keyword: carist_02_física; fonte_primária; carist; bib_edição;
+    fonte_primária\_-\_edição
+  page: 338a20-390b22
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Μετεωρολογικά
+  title-short: Mete
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.027"
+  collection-number: 31
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: Mir
+  isbn: Natural Philosophy
+  issued: 1831
+  keyword: natural_e\_natureza; fonte_primária; carist; phil;
+    phi_aristóteles; bib_edição; fonte_primária\_-\_edição
+  page: 830a05-847b10
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Περὶ θαυμασίων ἀκουσμάτων
+  title-short: Mir
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.022"
+  collection-number: 39
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: MM
+  isbn: Political Philosophy
+  issued: 1831
+  keyword: carist_06_ética; fonte_primária; carist; phi_aristóteles;
+    bib_edição; carist_mm; fonte_primária\_-\_edição
+  page: 1181a23-1213b30
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Ἠθικὰ μεγάλα
+  title-short: MM
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.028"
+  collection-number: 11
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: Mu
+  isbn: Second Philosophy
+  issued: 1831
+  keyword: carist_02_física; fonte_primária; carist_mu; carist;
+    bookends; bib_edição; fonte_primária\_-\_edição
+  page: 391a01-401b29
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Περὶ κόσμου
+  title-short: Mu
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.029"
+  collection-number: 43
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: Oec
+  isbn: Political Philosophy
+  issued: 1831
+  keyword: fonte_primária; phi_aristóteles; bib_edição;
+    fonte_primária\_-\_edição; carist_07_política
+  page: 1343a01-1354a01
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Οἰκονομικῶν
+  title-short: Oec
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.030"
+  collection-number: 23
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: PA
+  isbn: Natural Philosophy
+  issued: 1831
+  keyword: natural_e\_natureza; fonte_primária; carist; phil;
+    phi_aristóteles; bib_edição; fonte_primária\_-\_edição
+  page: 639a01-697b30
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Περὶ ζῴων μορίων
+  title-short: PA
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.032"
+  collection-number: 29
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: Phgn
+  isbn: Natural Philosophy
+  issued: 1831
+  keyword: natural_e\_natureza; fonte_primária; carist; phil;
+    phi_aristóteles; bib_edição; fonte_primária\_-\_edição
+  page: 805a01-814b08
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Φυσιογνωμονικά
+  title-short: Phgn
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.031"
+  collection-number: 7
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: Phys
+  isbn: Second Philosophy
+  issued: 1831
+  keyword: fichado; carist_02_física; fonte_primária; carist_phys;
+    carist; bookends; bib_edição; fonte_primária\_-\_edição
+  page: 184a10-267b26
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Φυσικῆς ἀκροάσεως
+  title-short: Phys
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.039"
+  collection-number: 30
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: Plan
+  isbn: Natural Philosophy
+  issued: 1831
+  keyword: natural_e\_natureza; fonte_primária; carist; phil;
+    phi_aristóteles; bib_edição; fonte_primária\_-\_edição
+  page: 814a10-830b04
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Περὶ φυτῶν
+  title-short: Plan
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.034"
+  collection-number: 46
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: Poet
+  isbn: Philosophy of Art
+  issued: 1831
+  keyword: philosophy_of_art; fonte_primária; carist; phil;
+    phi_aristóteles; bib_edição; fonte_primária\_-\_edição
+  page: 1447a08-1462b19
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Περὶ ποιητικῆς
+  title-short: Poet
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.035"
+  collection-number: 42
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: Pol
+  isbn: Political Philosophy
+  issued: 1831
+  keyword: carist_07_política; fonte_primária; phi_aristóteles;
+    bib_edição; fonte_primária\_-\_edição
+  page: 1252a01-1342b34
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Πολιτικῶν
+  title-short: Pol
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.036"
+  collection-number: 33
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: Prob
+  isbn: Natural Philosophy
+  issued: 1831
+  keyword: natural_e\_natureza; fonte_primária; carist; phil;
+    phi_aristóteles; bib_edição; fonte_primária\_-\_edição
+  page: 859a01-967b27
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Προβλήματα
+  title-short: Prob
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.037"
+  collection-number: 20
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: Resp
+  isbn: Parva Naturalia
+  issued: 1831
+  keyword: parva_naturalia; fonte_primária; carist; bib_edição;
+    fonte_primária\_-\_edição
+  page: 470b06-480b30
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Περὶ ἀναπνοῆς
+  title-short: Resp
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.038"
+  collection-number: 44
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: Rhet
+  isbn: Philosophy of Art
+  issued: 1831
+  keyword: philosophy_of_art; fonte_primária; carist; phil;
+    phi_aristóteles; bib_edição; fonte_primária\_-\_edição
+  page: 1354a1-1420a8
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Τέχνης ῥητορικής
+  title-short: Rhet
+  type: chapter
+- author:
+  - family: Aristóteles
+  collection-number: 45
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: RhetAlex
+  isbn: Philosophy of Art
+  issued: 1831
+  keyword: philosophy_of_art; fonte_primária; carist; bookends; phil;
+    phi_aristóteles; bib_edição; fonte_primária\_-\_edição
+  page: 1420a05-1447b07
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Ῥητορική πρὸς ἀλέξανδρον
+  title-short: RhetAlex
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.040"
+  collection-number: 6
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: SE
+  isbn: Organon
+  issued: 1831
+  keyword: organon; fonte_primária; carist; bookends; phil;
+    phi_aristóteles; bib_edição; fonte_primária\_-\_edição
+  page: 164a20-184b8
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Σοφιστικοὶ ἔλεγχοι
+  title-short: SE
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.041"
+  collection-number: 13
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: Sensu
+  isbn: Parva Naturalia
+  issued: 1831
+  keyword: fichado; parva_naturalia; fonte_primária; carist; bib_edição;
+    fonte_primária\_-\_edição
+  page: 436a01-449b04
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Περί αισθήσεως και αισθητών
+  title-short: Sensu
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.042"
+  collection-number: 15
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: SomnVig
+  isbn: Parva Naturalia
+  issued: 1831
+  keyword: parva_naturalia; fonte_primária; carist; bookends; phil;
+    phi_aristóteles; bib_edição; fonte_primária\_-\_edição
+  page: 453b11-458a32
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Περὶ ὕπνου καὶ ἐγρηγόρσεως
+  title-short: SomnVig
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.043"
+  collection-number: 21
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: Spir
+  isbn: Natural Philosophy
+  issued: 1831
+  keyword: natural_e\_natureza; fonte_primária; carist; phil;
+    phi_aristóteles; bib_edição; fonte_primária\_-\_edição
+  page: 481a01-486b04
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Περὶ πνεύματος
+  title-short: Spir
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.044"
+  collection-number: 5
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: Top
+  isbn: Organon
+  issued: 1831
+  keyword: organon; fonte_primária; carist; bookends; phil;
+    phi_aristóteles; bib_edição; fonte_primária\_-\_edição
+  page: 100a18-164b19
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Τοπικά
+  title-short: Top
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.046"
+  collection-number: 35
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: Vent
+  isbn: Natural Philosophy
+  issued: 1831
+  keyword: natural_e\_natureza; fonte_primária; carist; phil;
+    phi_aristóteles; bib_edição; fonte_primária\_-\_edição
+  page: 973a01-973b25
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Περὶ θέσεως ἀνέμων
+  title-short: Vent
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.045"
+  collection-number: 41
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: VV
+  isbn: Political Philosophy
+  issued: 1831
+  keyword: carist_09_espúrios; fonte_primária; phi_aristóteles;
+    bib_edição; fonte_primária\_-\_edição
+  page: 1249a26-1251b37
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Περὶ ἀρετῶν καὶ κακιῶν
+  title-short: VV
+  type: chapter
+- author:
+  - family: Aristóteles
+  call-number: "\\\\emph{TLG: }0086.057"
+  collection-number: 36
+  container-title: Aristotelis opera
+  editor:
+  - family: Bekker
+    given: Immanuel
+  id: Xen
+  isbn: Natural Philosophy
+  issued: 1831
+  keyword: natural_e\_natureza; fonte_primária; carist; phil;
+    phi_aristóteles; bib_edição; fonte_primária\_-\_edição
+  page: 974a01-980b21
+  publisher: Reimer
+  publisher-place: Berlin
+  title: Περὶ ξενοφάνους, περὶ ζήνωνος καὶ περὶ γοργίου
+  title-short: Xen
+  type: chapter
+---
