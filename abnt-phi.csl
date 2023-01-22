@@ -420,9 +420,8 @@
             <text macro="author" suffix=". "/>
             <text macro="title" suffix=". "/>
             <text macro="translator" suffix=". "/>
-            <text macro="edition" suffix=". "/>
-            <text macro="publisher" suffix=". "/>
             <text macro="locators"/>
+            <text variable="note"/>
           </group>
         </else-if>
         <else-if type="chapter">
@@ -438,6 +437,7 @@
             <text macro="edition" suffix=". "/>
             <text macro="publisher" suffix=". "/>
             <text macro="locators" suffix=". "/>
+            <text variable="note"/>
           </group>
         </else-if>
         <else-if type="article-newspaper article-magazine article-journal" match="any">
@@ -449,6 +449,7 @@
             <text macro="edition" suffix=", "/>
             <text macro="locators" suffix=", "/>
             <text macro="issued" suffix=". "/>
+            <text variable="note"/>
           </group>
         </else-if>
         <else-if type="thesis">
@@ -457,6 +458,7 @@
             <text macro="title" suffix=". "/>
             <text macro="genre" suffix="—"/>
             <text macro="publisher" suffix="."/>
+            <text variable="note"/>
           </group>
         </else-if>
         <else-if type="manuscript">
@@ -468,6 +470,7 @@
             <text macro="issued" suffix=". "/>
             <text macro="access" suffix=". "/>
             <text macro="archive" suffix=". "/>
+            <text variable="note"/>
           </group>
         </else-if>
         <else-if type="webpage">
@@ -476,6 +479,7 @@
             <text macro="title" suffix=". "/>
             <text macro="genre" suffix=". "/>
             <text macro="access" suffix=". "/>
+            <text variable="note"/>
           </group>
         </else-if>
         <else-if type="report paper-conference">
@@ -490,6 +494,7 @@
             <text macro="event"/>
             <text macro="publisher" prefix=". " suffix=". "/>
             <text macro="access" suffix="."/>
+            <text variable="note"/>
           </group>
         </else-if>
         <else-if type="entry-dictionary">
@@ -505,6 +510,7 @@
             <text macro="publisher" prefix=". " suffix=". "/>
             <text macro="collection-title" prefix="(Texto para discussao, n. " suffix=")."/>
             <text macro="access"/>
+            <text variable="note"/>
           </group>
         </else-if>
         <else-if type="entry-encyclopedia">
@@ -514,6 +520,7 @@
             <text variable="publisher-place" prefix=". " suffix=": "/>
             <text variable="publisher" suffix=", "/>
             <text macro="issued" prefix=", " suffix=". (Nota técnica)."/>
+            <text variable="note"/>
           </group>
         </else-if>
         <else-if type="paper-conference">
@@ -558,6 +565,7 @@
           <text variable="publisher-place" prefix=" " suffix=":"/>
           <text variable="publisher" prefix=" "/>
           <text macro="issued" prefix=", " suffix=". "/>
+          <text variable="note"/>
         </else>
       </choose>
       <choose>
